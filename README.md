@@ -14,7 +14,7 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://instagram.frao2-1.fna.fbcdn.net/v/t51.2885-19/277933719_1116346792482969_535515930862821658_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.frao2-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=tz7JtdVbAssAX8rigtj&edm=ALQROFkBAAAA&ccb=7-4&oh=00_AT-X62rwg4W_uD-OjXP_eCunck0bPK4rX7RffQhuy7qYxw&oe=62723CB6&_nc_sid=30a2ef">
+  <img align="right" alt="Cadu-pic" height="150" style="border-radius:50px;" src="[https://instagram.frao2-1.fna.fbcdn.net/v/t51.2885-19/277933719_1116346792482969_535515930862821658_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.frao2-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=tz7JtdVbAssAX8rigtj&edm=ALQROFkBAAAA&ccb=7-4&oh=00_AT-X62rwg4W_uD-OjXP_eCunck0bPK4rX7RffQhuy7qYxw&oe=62723CB6&_nc_sid=30a2ef](https://www.instagram.com/p/CYw2UYSOjAF/)">
 </div>
   
   ##
