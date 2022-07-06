@@ -14,7 +14,6 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-  <img align="right" alt="Cadu-pic" height="150" style="border-radius:50px;" src="https://scontent.frao6-1.fna.fbcdn.net/v/t39.30808-6/269994031_10217399037202969_2747688873274853519_n.jpg?_nc_cat=103&ccb=1-6&_nc_sid=730e14&_nc_eui2=AeFf4qwzPc6ESL3_Re8XyWiwVJQD5YbSyedUlAPlhtLJ5zuGygk48KOqjhiX7jCBonM&_nc_ohc=SelM5C0PhX4AX8DzZJP&_nc_ht=scontent.frao6-1.fna&oh=00_AT-8o8OUBlPRQMPAf31S8SXJO1Jn8lKuPWpI16l3XZG0fQ&oe=628993C1">
 </div>
   
   ##
