@@ -1,4 +1,4 @@
-## Oi eu sou o Cadu, atual desenvolvedor na Zip Software!
+## FullStack Developer
 <div align="center">
   <a href="https://github.com/CarlosEduardodosSantos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlosEduardodosSantos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
