@@ -15,7 +15,7 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
 </div>
   
-  ##
+  ![Cadu's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosEduardodosSantos&show_icons=true&theme=transparent)
  
 <div> 
   <a href="https://www.facebook.com/cadu.d.santos.7" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
